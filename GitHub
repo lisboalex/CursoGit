@@ -1,0 +1,60 @@
+# GitHub
+
+- Registro de mudanças >>> integrar códigos desenvolvendo em equipe
+
+-SCRUM
+
+# Fluxo de trabalho
+
+- working dir >>comando add>> index >>comando commit>> Head
+
+- working directory = workspace
+
+- index = quando os contribuidores querem subir as mudanças
+
+- head = parte principal do codigo onde os contribuidores salvam os codigos alterados no repositorio principal.h
+
+#comandos
+
+- init = inicia o repo local
+
+- checkout = cria uma nova branch ou muda de branch
+
+- add = add um arquivo ou pasta no index
+
+- commit = especifica a versão para mandar pro head
+
+- log = verifica todas as mudancas feitas
+
+- branch = cria novas branches do repo
+
+- status = verificar branch e versao do repo em trabalho
+
+- merge = juntar dois branches
+
+- push = envia uma mudanca para o repo depois de ter dado um commit.
+
+- pull = puxa a versao atual do branch no repo
+
+# criando um repositorio do zero
+
+- git init
+
+- git remote add origin "link do repositorio"
+
+obs: se ja existisse era só dar um clone na workspace
+
+- git add "nome_arquivo" (git add . add todos os arquivos neste diretorio)
+
+
+
+
+
+
+ 
+
+
+
+
+
+
